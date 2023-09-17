@@ -1,4 +1,4 @@
-### Hi there, I'm Anton Kolotvin - aka bnderos 👋
+### Всем привет, я Антон 👋
 
 <!--
 **bnderos/bnderos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
