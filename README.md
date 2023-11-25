@@ -51,6 +51,6 @@ I am a beginner data scientist and data analyst  <img src="https://media.giphy.c
 
 ### :fire: My Stats :
 <div id="stat" align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=bnderos&theme=algolia&border_radius=5&card_width=700" alt="GitHub Streak" /></a>
+    <img src="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=bnderos&theme=algolia&border_radius=5&card_width=700" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bnderos&theme=github_dark" alt=""/>
 </div>
